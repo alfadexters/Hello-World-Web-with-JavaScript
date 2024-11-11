@@ -54,6 +54,7 @@ This repository is ready to be deployed on any Platform-as-a-Service (PaaS) prov
 + Railway
 + Vercel
 + Laravel Cloud
+  
 Follow the deployment instructions specific to each platform for Node.js-based applications.
 ## Deployment Link
 This application is deployed on Railway and can be accessed at:
